@@ -1,0 +1,1 @@
+Github pages com a documentação do projeto: https://victorhenrique317.github.io/alg2_tp1/
